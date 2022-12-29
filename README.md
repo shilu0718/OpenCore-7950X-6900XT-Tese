@@ -11,3 +11,5 @@ Hackintoch For AMD Ryzen 9 7950X Tese
 |硬盘|1TB SN750
 |网卡|RTL8125E
 
+注意 此版本仅为测试版 未在实体机上测试 如有问题 请联系我
+Note that this version is only a beta version and has not been tested on the physical machine. If you have any questions, please contact me
